@@ -2,4 +2,3 @@ Estoy aprendiendo Git y GitHub
 Mi Primer commit se ha creado correctamente.
 Estoy trabajnado en mi primera rama.
 Este cambio se ha realizado desde GitHub.
-Este cambio se guardará en un commit por error.
