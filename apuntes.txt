@@ -1,4 +1,5 @@
 Estoy aprendiendo a resolver conflictos desde main.
+Estoy aprendiendo a resolver conflictos desde una rama.
 Mi Primer commit se ha creado correctamente.
 Estoy trabajnado en mi primera rama.
 Este cambio se ha realizado desde GitHub.
