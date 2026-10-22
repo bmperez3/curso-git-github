@@ -9,3 +9,4 @@ Cambio realizado desde el repositorio clonado.
 Estoy aprendiendo a modificar el ultimo commit.
 Este cambio se olvidó antes de crear el commit.
 Primera nota para practicar rebase interactivo.
+Segubda nota para practicar el rebase interactivo.
