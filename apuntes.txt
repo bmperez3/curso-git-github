@@ -6,3 +6,5 @@ Este cambio se ha realizado desde GitHub.
 Estoy trabajando con una rama remota.
 Cambio realizado en Github para practicar fetch y pull.
 Cambio realizado desde el repositorio clonado.
+Estoy aprendiendo a modificar el ultimo commit.
+Este cambio se olvidó antes de crear el commit.
