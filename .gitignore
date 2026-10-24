@@ -1,2 +1,4 @@
-Texto sin formato
 .DS_Store
+notas-privadas.txt 
+*.log
+temporal/
